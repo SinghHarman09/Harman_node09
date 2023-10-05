@@ -1,0 +1,4 @@
+Here is the new file : this is the first file
+ and this is the second text file
+Here is the new file : this is the first file
+ and this is the second text file
